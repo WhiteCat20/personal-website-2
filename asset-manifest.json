@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-web/static/css/main.898ddc10.css",
-    "main.js": "/react-web/static/js/main.d8152b08.js",
-    "static/media/faiz.JPG": "/react-web/static/media/faiz.f51dfb0f6b1d3a1a2a42.JPG",
-    "index.html": "/react-web/index.html",
-    "main.898ddc10.css.map": "/react-web/static/css/main.898ddc10.css.map",
-    "main.d8152b08.js.map": "/react-web/static/js/main.d8152b08.js.map"
+    "main.css": "/personal-website-2/static/css/main.898ddc10.css",
+    "main.js": "/personal-website-2/static/js/main.399f4c90.js",
+    "static/media/faiz.JPG": "/personal-website-2/static/media/faiz.f51dfb0f6b1d3a1a2a42.JPG",
+    "index.html": "/personal-website-2/index.html",
+    "main.898ddc10.css.map": "/personal-website-2/static/css/main.898ddc10.css.map",
+    "main.399f4c90.js.map": "/personal-website-2/static/js/main.399f4c90.js.map"
   },
   "entrypoints": [
     "static/css/main.898ddc10.css",
-    "static/js/main.d8152b08.js"
+    "static/js/main.399f4c90.js"
   ]
 }
