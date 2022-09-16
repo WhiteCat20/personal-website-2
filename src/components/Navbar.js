@@ -18,7 +18,7 @@ function Navbar() {
             Profile
           </a>
           <a
-            href="#"
+            href="/projects"
             className="inline-block hover:bg-blue-500 hover:cursor-pointer px-3 py-1 pb-2 rounded-xl"
           >
             Projects

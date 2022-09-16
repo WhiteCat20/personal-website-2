@@ -1,6 +1,7 @@
 import React from "react";
 import Divider from "./Divider";
 
+
 function Hero() {
   const linkedIn = "https://www.linkedin.com/in/fzrahmadan/";
   const insta = "https://www.instagram.com/fzrahmadan/";

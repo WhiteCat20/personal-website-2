@@ -21,9 +21,8 @@ function Profile() {
         <div className="mt-5">
           <h1 className="text-center text-2xl">Skills and Interests</h1>
           <div className="flex justify-center gap-4 mt-4">
-            <i class="fa-brands fa-react text-5xl"></i>
-            <i class="fa-brands fa-laravel text-5xl"></i>
-            <i class="fa-brands fa-linkedin text-5xl"></i>
+            <i class="fa-brands fa-react text-6xl"></i>
+            <i class="fa-brands fa-laravel text-6xl"></i>
           </div>
         </div>
       </div>
