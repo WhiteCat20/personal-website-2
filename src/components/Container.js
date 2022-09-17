@@ -1,6 +1,6 @@
 import Hero from "./Hero";
 import Navbar from "./Navbar";
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Profile from "./Profile";
 import Project from "./Project";
 
